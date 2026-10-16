@@ -6,6 +6,7 @@ import { AuthProvider } from '@/components/auth-provider'
 import { Toaster } from '@/components/ui/sonner'
 import './globals.css'
 
+
 const notoSansArabic = Noto_Sans_Arabic({ 
   subsets: ['arabic'],
   weight: ['400', '500', '600', '700'],
